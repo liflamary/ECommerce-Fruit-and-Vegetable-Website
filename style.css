@@ -173,5 +173,9 @@ section{
 .swiper-button-prev::after{
     display:none;
 }
-
+.heading{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
