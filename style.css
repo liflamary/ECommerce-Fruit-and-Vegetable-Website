@@ -370,3 +370,27 @@ display:block;
     font-size:24px;
     color:var(--green-color);
 }
+.customers .box .bx .stars .bx{
+    font-size:1rem;
+    color:var(--light-orange-color);
+}
+.customers .box p{
+    font-size:0.938rem;
+}
+.review-profile{
+    display:flex;
+    align-items:center;
+    margin-top:1rem;
+    column-gap:0.5rem;
+}
+.review-profile img{
+    width:60px;
+    height:60px;
+    object-fit:cover;
+    object-position:center;
+    border-radius:50%;
+}
+.review-section h3{
+    font-size:1rem;
+    font-weight:600;
+}
