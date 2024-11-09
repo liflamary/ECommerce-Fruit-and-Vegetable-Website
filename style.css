@@ -394,3 +394,11 @@ display:block;
     font-size:1rem;
     font-weight:600;
 }
+.footer{
+    max-width:968px;
+    margin-left:auto;
+    margin-right:auto;
+    gap:1.5rem;
+    display:grid;
+    margin-top:2rem;
+}
