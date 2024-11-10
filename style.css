@@ -401,4 +401,8 @@ display:block;
     gap:1.5rem;
     display:grid;
     margin-top:2rem;
+    background:#fef4ea;
+    grid-template-columns: repeat(auto-fit,minmx(200px,auto));
+    border-radius:0.5rem;
+    padding:20px;
 }
